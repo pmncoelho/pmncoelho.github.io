@@ -1,0 +1,17 @@
+1847  git add --all
+ 1848  git push -u origin master
+ 1849  git remote add origin https://github.com/pmncoelho/pmncoelho.github.io.git
+ 1850  git commit
+ 1851  git commit -m "homepage"
+ 1852  git push -u origin master
+ 1853  cd
+ 
+ 1866  cd ameal/
+ 1867  cd github.io/pmncoelho.github.io/
+ 1868  ls
+ 1869  git add -all
+ 1870  git add --all
+ 1871  git push -u origin master
+ 1872  git commit -m "homepage text"
+ 1873  git push -u origin master
+ 1874  history
