@@ -18,9 +18,9 @@
 	<body>
 		<div class="container">
 			<header class="codrops-header">
-				<h1>pmncoelho homepage <span>Inspired by CreativeDash's <a href="http://creativeda.sh/sandbox/bounce_menu/">bounce menu</a></h1>
-				<p class="codrops-links"><a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/CreativeLoadingEffects/"><span>Previous Demo</span></a>
-				<span class="right"><a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=16556"><span>Back to the Codrops Article</span></a></span></p>
+				<h1>pmncoelho homepage </h1>
+				
+				
 				
 				<div class="codrops-related">
 					Inspired by <a href=" http://tympanus.net/">Manoela Ilic</a><br />
@@ -29,11 +29,10 @@
 			<nav id="bt-menu" class="bt-menu">
 				<a href="#" class="bt-menu-trigger"><span>Menu</span></a>
 				<ul>
-					<li><a href="#" class="bt-icon icon-zoom">Zoom</a></li>
-					<li><a href="#" class="bt-icon icon-refresh">Refresh</a></li>
-					<li><a href="#" class="bt-icon icon-lock">Lock</a></li>
-					<li><a href="#" class="bt-icon icon-speaker">Sound</a></li>
-					<li><a href="#" class="bt-icon icon-star">Favorite</a></li>
+					<li><a href="http://pmncoelho.github.io" class="bt-icon icon-home">Home</a></li>
+					<li><a href="#" class="bt-icon icon-bubble">Notes</a></li>
+					<li><a href="#" class="bt-icon icon-star">Fixes</a></li>
+					<li><a href="https://github.com/pmncoelho" class="bt-icon icon-github">github</a></li>
 				</ul>
 			</nav>
 		</div><!-- /container -->

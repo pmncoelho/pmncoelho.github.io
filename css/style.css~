@@ -182,7 +182,7 @@ body  {
 }
 
 .bt-menu ul li a:before {
-	color: #fff;
+	color: #04a466;
 	font-size: 48px;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
